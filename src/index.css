@@ -1,0 +1,62 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  text-align: center;
+  
+}
+.container{
+  background-color:aqua;
+  padding:50px;
+  margin-top: 200px;
+  border:5px solid green;
+  border-radius: 20px;
+  margin-left:300px;
+  margin-right: 300px;
+  font-size: 25px;
+  line-height: 40px;
+  
+
+}
+.container button{
+  background-color: brown;
+  padding:10px;
+  color: aliceblue;
+  
+  margin:5px;
+  border-radius: 8px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
